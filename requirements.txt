@@ -10,6 +10,7 @@ lyricsgenius
 motor==3.0.0
 pillow
 psutil
+httpx[http2]>=0.18.1,<1.0.0
 py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
