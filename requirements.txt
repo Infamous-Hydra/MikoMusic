@@ -22,4 +22,3 @@ tgcrypto
 youtube-search
 youtube-search-python
 yt-dlp
-google-reverse-search==0.1.3
