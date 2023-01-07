@@ -20,7 +20,6 @@ requests
 speedtest-cli
 spotipy
 tgcrypto
-TgCrypto==1.2.5
 youtube-search
 youtube-search-python
 yt-dlp
