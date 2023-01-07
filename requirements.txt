@@ -13,13 +13,13 @@ psutil
 httpx==0.13.3
 py-tgcalls==0.8.6
 pykeyboard
-pyrogram==2.0.93
+pyrogram==1.4.16
 python-dotenv==0.21.0
 pyyaml==5.3.1
 requests
 speedtest-cli
 spotipy
-tgcrypto
+TgCrypto==1.2.5
 youtube-search
 youtube-search-python
 yt-dlp
