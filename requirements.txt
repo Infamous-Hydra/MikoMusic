@@ -15,7 +15,7 @@ py-tgcalls==0.8.6
 pykeyboard
 pyrogram==2.0.93
 python-dotenv==0.21.0
-pyyaml==5.3.1
+pyyaml
 requests
 speedtest-cli
 spotipy
