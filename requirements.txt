@@ -11,7 +11,7 @@ motor==3.1.1
 pillow
 httpx
 psutil
-py-tgcalls==0.8.6
+py-tgcalls
 pykeyboard
 pyrogram
 python-dotenv
