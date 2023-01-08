@@ -1,6 +1,6 @@
 aiofiles
-aiohttp[speedups]
-asyncio==3.4.3
+aiohttp
+asyncio
 dnspython
 ffmpeg-python
 gitpython
@@ -8,13 +8,12 @@ hachoir
 heroku3
 lyricsgenius
 motor==3.1.1
-pillow==9.4.0
+pillow
 psutil
-httpx==0.13.3
 py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
-python-dotenv==0.21.0
+python-dotenv
 pyyaml==5.3.1
 requests
 speedtest-cli
