@@ -13,7 +13,7 @@ httpx==0.23.0
 psutil
 py-tgcalls
 pykeyboard
-pyrogram==1.4.16
+pyrogram==2.0.95
 python-dotenv
 pyyaml==5.4
 requests
