@@ -13,9 +13,9 @@ httpx==0.23.0
 psutil
 py-tgcalls
 pykeyboard
-pyrogram==2.0.95
+pyrogram==1.4.16
 python-dotenv
-pyyaml==6.0
+pyyaml==5.4
 requests
 speedtest-cli
 spotipy
