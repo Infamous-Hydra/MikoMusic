@@ -1,5 +1,5 @@
 """ Team Red7 """
-from .. import app as Red7
+from .. import YukkiMusic as Red7
 from pyrogram.types import Message
 from pyrogram import filters
 
