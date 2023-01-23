@@ -1,5 +1,5 @@
 """ Team Red7 """
-from .. import pgram as Red7
+from .. import userbot as Red7
 from pyrogram.types import Message
 from pyrogram import filters
 
