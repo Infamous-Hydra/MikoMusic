@@ -1,5 +1,5 @@
 """ Team Red7 """
-from .. import pyrogramt as Red7
+from .. import pyrogram as Red7
 from pyrogram.types import Message
 from pyrogram import filters
 
