@@ -8,10 +8,10 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
-motor==3.0.0
+motor
 pillow
 psutil
-py-tgcalls==0.8.6
+py-tgcalls
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
