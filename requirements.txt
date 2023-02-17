@@ -22,4 +22,4 @@ spotipy
 tgcrypto
 youtube-search
 youtube-search-python
-yt-dlp
+git+https://github.com/ytdl-patched/yt-dlp
