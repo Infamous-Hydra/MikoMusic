@@ -8,14 +8,14 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
-motor==3.1.1
+motor==3.0.0
 pillow
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
-pyyaml==5.3.1
+PyYAML==5.4.1
 requests
 speedtest-cli
 spotipy
